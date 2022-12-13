@@ -12,3 +12,6 @@ print("Day 1")
 print("Ex 1 = ", day1_1())
 print("Ex 2 = ", day1_2())
 
+print("Day 2")
+print("Ex 1 = ", day2_1())
+
